@@ -1,0 +1,148 @@
+.right{
+    /* background-color: red; */
+    display: inline-block;
+    vertical-align: top;
+    padding: 22px 0px 22px 48px;
+    max-width:"1190px";
+    /* width:100%; */
+}
+.search{
+    box-sizing: border-box;
+
+    /* position: absolute; */
+    /* width: 417px; */
+    /* height: 44px; */
+    width:417px;
+    background: #F5F5F5;
+    border-radius: 6px;
+    padding: 10px 0;
+    display: inline-block;
+}
+.inputtext{
+ background: none; 
+ outline: none;  
+ border:0;
+}
+.tools{
+    margin:10px 0;
+    padding: 2px;
+    margin-left: 300px;
+    float:right;
+}
+.profile{
+    float:right;
+    margin-left: 50px;
+    /* display: inline; */
+}
+.text5{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+text-align: right;
+color: #0D062D;
+margin-right: 18px;
+}
+.text6{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 46px;
+line-height: 56px;
+/* identical to box height */
+display: inline-block;
+text-transform: capitalize;
+margin-top: 63px;
+color: #0D062D;
+}
+.invite{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+text-transform: capitalize;
+vertical-align: top;
+color: #5030E5;
+display: inline-block;
+margin-top: 10px;
+margin-right: 13px;
+}
+.filter{
+ padding: 10px;
+border: 1px solid #787486;
+border-radius: 6px;
+display: inline-block; 
+margin-right: 12px;  
+}
+.text7{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+text-transform: capitalize;
+display:inline-block;
+color: #787486;
+margin: 0 12px 0 9px;
+}
+.cardcontainer{
+    width: 314px;
+max-height: 585px;
+padding: 20px;
+display: inline-block;
+overflow-y: hidden;
+margin-right: 15px;
+background: #F5F5F5;
+border-radius: 16px 16px 0px 0px;
+}
+.heads{
+    /* width: 45px; */
+    /* height: 19px; */
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    margin-bottom: 50px;
+    color: #0D062D;
+}
+.cardtext{
+    
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+margin-top: 4px;
+margin-bottom: 6px;
+color: #0D062D;
+}
+.cardsubtext{
+    
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+
+color: #787486;
+}
+
+.cardsubtext2{
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 5px;
+    color: #787486;
+    /* float:right; */
+    }
+    

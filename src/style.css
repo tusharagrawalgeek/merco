@@ -1,0 +1,161 @@
+.container{
+    /* background: red; */
+    display: flex;
+}
+.rect1{
+    /* position: absolute; */
+width: 1440px;
+height: 932px;
+/* display:inline-block; */
+margin-left:100px;
+background: #FFFFFF;
+box-shadow: 0px 44px 84px 6px #D8D9DB;
+border-radius: 30px;
+}
+.left{
+    width: 250px;
+    display: inline-block;
+}
+
+hr{
+    position: absolute;
+width: 224px;
+height: 0px;
+
+border: 1px solid #DBDBDB;
+}
+.projectHead{
+    /* position: absolute; */
+/* width: 98px; */
+/* height: 24px; */
+padding:32px 0 32px 22px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+
+color: #0D062D;
+
+}
+.hrrule{
+    /* position: absolute; */
+width: 1438.5px;
+margin:0;
+height: 0px;
+
+border: 1px solid #DBDBDB;
+}
+.modules{
+    padding: 32px 0 0 22px;
+}
+.module{
+    /* position: absolute; */
+/* width: 46px; */
+/* height: 19px; */
+margin-bottom: 30px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+
+color: #787486;
+}
+.hrrule2{
+    
+/* position: absolute; */
+/* margin:0; */
+margin: 0 13px 0 13px; 
+width: 224px;
+height: 0px;
+
+border: 1px solid #DBDBDB;
+}
+.projects{
+    padding:30px 12px 0 12px;
+}
+.myprojects{
+    padding: 0px 10px 10px 10px;
+    /* background-color: red; */
+}
+.myprojtext{
+
+    /* position: absolute;
+    width: 87px;
+    height: 15px; */
+    display: inline;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+    
+    text-transform: uppercase;
+    
+    color: #787486;
+}
+.projectnameSelected{
+    margin:10px 0;
+    padding:10px 14px;
+background: rgba(80, 48, 229, 0.08);
+border-radius: 6px;
+color: #0D062D;
+}
+.projectname{
+    margin:10px 0;
+    padding:10px 14px;
+/* background: rgba(80, 48, 229, 0.08); */
+/* border-radius: 6px; */
+color: #787486
+}
+.innercontent{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 19px;
+/* vertical-align: middle; */
+
+}
+.message{
+    margin: 100px 20px 32px 20px;
+    background: #f5f5f5;
+    border-radius: 16px;
+    padding:20px;
+}
+.text1{
+    /* position: absolute;
+width: 101px;
+height: 17px; */
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+text-align: center;
+
+color: #000000;
+}
+.text2{
+padding: 12px 0 14px 0;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 15px;
+text-align: center;
+
+color: #787486;
+}
+.verticalrule{
+    /* position: absolute; */
+width: 0px;
+height: 931px;
+display: inline-block;
+margin: 0;
+border: 1px solid #DBDBDB;}
